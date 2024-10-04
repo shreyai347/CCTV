@@ -46,14 +46,7 @@ Zomato-Data-Analysis/
 ├── notebooks/              # Jupyter notebooks for analysis
 │   └── analysis.ipynb      # Main analysis notebook
 │
-├── scripts/                # Python scripts for data processing
-│   └── data_processing.py   # Script for data cleaning and preprocessing
-│
-├── visuals/                # Visualizations generated from the analysis
-│   └── bar_chart.png       # Example visualization
-│
-├── requirements.txt        # List of required Python packages
-└── README.md               # Project documentation
+
 ```
 
 ## Getting Started
